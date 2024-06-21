@@ -10,7 +10,7 @@ and allows you to create or switch to a workspace for each project.
 Clone this repository into your `$XDG_CONFIG_HOME/wezterm` directory:
 
 ```sh
-git clone https://github.com/sei40kr/wez-pain-control.git $XDG_CONFIG_HOME/wezterm
+git clone https://github.com/sei40kr/wez-per-project-workspace.git $XDG_CONFIG_HOME/wezterm
 ```
 
 ## Usage
